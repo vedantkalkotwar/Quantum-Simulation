@@ -17,7 +17,7 @@ Extends the simulation to three dimensions, tracking the spatial probability dis
   <img src="files/gaussian_wavepacket_3-D.gif" width="700">
 </p>
 
-4. General Numerical Simulations
+3. General Numerical Simulations
 Tools for testing various initial conditions and observing resulting quantum behaviors through computational integration.
 
 <p align="center">
