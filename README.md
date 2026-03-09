@@ -8,8 +8,16 @@ Simulates a 1D Gaussian wave packet spreading over time. It visualizes the dispe
   <img src="files/gaussian_wavepacket.gif" width="700">
 </p>
 
-3. 3D Quantum Dynamics
+2. 3D Quantum Dynamics
 Extends the simulation to three dimensions, tracking the spatial probability distribution of a particle in a 3D grid.
+
+<p align="center">
+  <img src="files/gaussian_wavepacket_3-D.gif" width="700">
+</p>
 
 4. General Numerical Simulations
 Tools for testing various initial conditions and observing resulting quantum behaviors through computational integration.
+
+<p align="center">
+  <img src="files/Quantum Tunneling.gif" width="700">
+</p>
