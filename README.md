@@ -1,4 +1,6 @@
 # Quantum Simulation
+Author: Vedant Ravindra Kalkotwar
+
 This repository contains Jupyter-based numerical simulations of quantum mechanical systems, focusing on the temporal evolution of wavefunctions and the visualization of probability densities.
 
 1. Free Particle Wave Packet (1D)
